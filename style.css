@@ -236,3 +236,16 @@
     section{padding:60px 0;}
     .hero{padding:72px 0 64px;}
   }
+/* ZM Software header logo */
+.brand {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.brand img {
+  display: block;
+  width: 220px;
+  height: auto;
+  max-width: 100%;
+}
