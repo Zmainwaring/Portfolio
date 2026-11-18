@@ -245,6 +245,6 @@
 .brand img {
   display: block;
   width: 200px;
-  height: autopx;
+  height: auto;
   object-fit: contain;
 }
